@@ -249,7 +249,8 @@ display: block;
   }
   
   .el-wrapper {
-    width: 480px;
+/*     width: 480px; */
+      width:370px ;
     padding: 15px;
     margin: 15px auto;
     background-color: #fff;
